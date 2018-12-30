@@ -1,0 +1,3 @@
+[submodule "Libraries/driver_celshade"]
+	path = Libraries/driver_celshade
+	url = https://github.com/armory3d/driver_celshade
